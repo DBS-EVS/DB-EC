@@ -458,7 +458,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"{{{ musik }}}"
                 }, 
@@ -513,7 +513,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"{{{ uno }}}"
                 }, 
@@ -575,7 +575,7 @@
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"onicon"
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -630,7 +630,7 @@
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"onicon"
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
