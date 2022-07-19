@@ -363,6 +363,11 @@
                  "value":"{{{ musik }}}"
                 }, 
                 {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"autoplay;fullscreen;camera;microphone;"
+                }, 
+                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
