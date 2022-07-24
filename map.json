@@ -1167,7 +1167,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Skribbl:"
+                         "value":"Meeting 1 - Skribbl:"
                         }, 
                         {
                          "name":"persist",
@@ -1195,7 +1195,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Checkin Generator:"
+                         "value":"Meeting 2 : Checkin Generator:"
                         }, 
                         {
                          "name":"persist",
@@ -1223,7 +1223,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Uno:"
+                         "value":"DB Raum - Uno:"
                         }, 
                         {
                          "name":"persist",
@@ -1251,7 +1251,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Billard:"
+                         "value":"DB Raum - Billard:"
                         }, 
                         {
                          "name":"persist",
@@ -1279,7 +1279,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Volleyball:"
+                         "value":"Beach - Volleyball:"
                         }, 
                         {
                          "name":"persist",
@@ -1307,7 +1307,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Stille Post:"
+                         "value":"K\u00fcche - Stille Post:"
                         }, 
                         {
                          "name":"persist",
@@ -1335,7 +1335,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Musik:"
+                         "value":"Musikraum - Musik:"
                         }, 
                         {
                          "name":"persist",
