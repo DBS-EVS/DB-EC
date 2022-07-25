@@ -1167,7 +1167,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Meeting 1 - Skribbl:"
+                         "value":"Meeting 1:"
                         }, 
                         {
                          "name":"persist",
@@ -1195,7 +1195,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Meeting 2 : Checkin Generator:"
+                         "value":"Meeting 2:"
                         }, 
                         {
                          "name":"persist",
@@ -1223,7 +1223,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"DB Raum - Uno:"
+                         "value":"Billard Rechts: "
                         }, 
                         {
                          "name":"persist",
@@ -1251,7 +1251,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"DB Raum - Billard:"
+                         "value":"Billard Links:"
                         }, 
                         {
                          "name":"persist",
@@ -1279,7 +1279,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Beach - Volleyball:"
+                         "value":"Beach-Volleyball:"
                         }, 
                         {
                          "name":"persist",
@@ -1307,7 +1307,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"K\u00fcche - Stille Post:"
+                         "value":"K\u00fcche:"
                         }, 
                         {
                          "name":"persist",
@@ -1335,7 +1335,7 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Musikraum - Musik:"
+                         "value":"Musikraum:"
                         }, 
                         {
                          "name":"persist",
